@@ -176,6 +176,11 @@ Go to each folder and run make:
 1. `$ cd /home/coq/code/section4`
 2. `$ make`
 
+
+Note that compilation of equivalence.v takes a few minutes
+to complete.
+
+
 ### section51
 
 1. `$ cd /home/coq/code/section51`
@@ -187,6 +192,10 @@ Go to each folder and run make:
 2. `$ make`
 
 Please feel free to go through the code in each section.
+**vim** and **cat** commands are available to look into the files.
+Recommended way to look into the files is by downloading the 
+code archive from the given git repo.
+
 This completes the evaluation of artifact following docker image.
 
 

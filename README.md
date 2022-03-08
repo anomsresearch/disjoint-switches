@@ -1,6 +1,7 @@
 # Artifact: Union Types with Disjoint Switches
 
 Title of the submitted paper: Union Types with Disjoint Switches
+
 ECOOP submission number for the paper: 69
 
 ## Overview: What does the artifact comprise?

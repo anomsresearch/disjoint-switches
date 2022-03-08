@@ -21,7 +21,7 @@ access the artifact and look into the directory hierarchy.
 
 ### Code Structure:
 
-There are 4 sub-folders in the artifact in `code` folder:
+There are 4 sub-folders in the artifact in *code* folder:
 1) section3
 2) section4
 3) section51
@@ -168,26 +168,22 @@ Go to each folder and run make:
 ### section3
 
 1. `$ cd /home/coq/code/section3`
-2. `$ eval $(opam env)`
-3. `$ make`
+2. `$ make`
 
 ### section4
 
 1. `$ cd /home/coq/code/section4`
-2. `$ eval $(opam env)`
-3. `$ make`
+2. `$ make`
 
 ### section51
 
 1. `$ cd /home/coq/code/section51`
-2. `$ eval $(opam env)`
-3. `$ make`
+2. `$ make`
 
 ### section52
 
 1. `$ cd /home/coq/code/section52`
-2. `$ eval $(opam env)`
-3. `$ make`
+2. `$ make`
 
 Please feel free to go through the code in each section.
 This completes the evaluation of artifact following docker image.

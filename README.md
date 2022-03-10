@@ -134,8 +134,8 @@ Coq TLC and Coq Metatheory libraries are also required to run the artifact.
 ## Getting Started
 
 We provide two alternatives to run the artifact:
-1) docker image
-2) build from scratch
+1) Docker Image
+2) Build From Scratch
 
 # 1) Docker Image #
 
@@ -161,8 +161,8 @@ There are 4 folders in the artifact, with make file in each.
 
 1. **section3** → Discussed in section 3 in paper
 2. **section4** → Discussed in section 4 in paper
-3. **section51** → Discussed in section 51 in paper
-4. **section52** → Discussed in section 52 in paper
+3. **section51** → Discussed in section 5.1 in paper
+4. **section52** → Discussed in section 5.2 in paper
 
 Go to each folder and run make:
 
@@ -245,8 +245,8 @@ There are 4 sub-folders in the *code* folder, with make file in each.
 
 1. **section3** → Discussed in section 3 in paper
 2. **section4** → Discussed in section 4 in paper
-3. **section51** → Discussed in section 51 in paper
-4. **section52** → Discussed in section 52 in paper
+3. **section51** → Discussed in section 5.1 in paper
+4. **section52** → Discussed in section 5.2 in paper
 
 **Note:** Please make sure to run `$ eval $(opam env)` if Coq
 is installed using opam. This command can be skipped otherwise.
